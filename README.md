@@ -17,7 +17,7 @@
 
 Pipeline/TD developer trained in 3D animation & VFX at ESMA Toulouse, focused on building production tools: asset and shot management, **USD** composition, Houdini/Maya integration, render farm automation.
 
-This year, I designed and built the entire technical pipeline for the short film MortalKoil: production-tracking database, USD exporters (modeling, rigging, animation, camera), Houdini and Maya integration tools, and automated render farm monitoring.
+This year, I designed and built the pipeline for the short film MortalKoil: production-tracking database, USD exporters (modeling, rigging, animation, camera), Houdini and Maya integration tools, and automated render farm monitoring.
 
 I'm looking for a **Pipeline / TD role in 3D Animation / VFX**, and I'm also open to other industries working with 3D and USD: **aerospace, robotics, mapping, digital twins, 3D data visualization**.
 
@@ -43,7 +43,7 @@ I'm looking for a **Pipeline / TD role in 3D Animation / VFX**, and I'm also ope
 
 Développeur pipeline/TD formé en animation 3D & VFX à l'ESMA Toulouse, spécialisé dans la construction d'outils de production : gestion d'assets et de shots, composition **USD**, intégration Houdini/Maya, automatisation de farm de rendu.
 
-Cette année, j'ai conçu et développé l'intégralité de la pipeline technique du court métrage MortalKoil : base de données de suivi de production, exporteurs USD (modeling, rigging, animation, caméra), outils d'intégration dans Houdini et Maya, et le monitoring automatisé de la farm de rendu.
+Cette année, j'ai conçu et développé le pipeline technique du court métrage MortalKoil : base de données de suivi de production, exporteurs USD (modeling, rigging, animation, caméra), outils d'intégration dans Houdini et Maya, et le monitoring automatisé de la farm de rendu.
 
 Je recherche un poste **Pipeline / TD en Animation 3D / VFX**, et suis également ouvert à d'autres secteurs utilisant la 3D et l'USD : **aéronautique, robotique, cartographie, jumeaux numériques, visualisation de données 3D**.
 
