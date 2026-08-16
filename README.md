@@ -27,7 +27,6 @@ I'm looking for a **Pipeline / TD role in 3D Animation / VFX**, and I'm also ope
 |---|---|---|
 | [**USD Maya Exporters**](https://github.com/arthurJusteau/usd-maya-exporters) | Suite of USD exporters for Maya (modeling, rigging, animation, camera) | Python, `pxr` (Usd, UsdSkel, Sdf), Maya API |
 | [**Sanity Check Framework**](https://github.com/arthurJusteau/sanity-check-framework) | Pre-export validation tool: detects scene errors (topology, UVs, pivots, history...) | Python, PySide2, Maya API |
-| [**HDA Import Asset**](https://github.com/arthurJusteau/houdini-usd-import-hda) | Houdini Digital Asset to browse and import USD assets by reference/sublayer | Python, Houdini LOP, `hou` |
 | [**Tractor Bot**](https://github.com/arthurJusteau/tractorBot) | Autonomous Tractor render farm monitor: auto-retries failed jobs, detects stuck frames via dynamic threshold | Python, threading, HTTP API |
 | [**USD Assembler**](https://github.com/arthurJusteau/usd-assembler) | USD assembly tool: composing assets and shots through sublayers | Python, `pxr.Sdf`, PySide6 |
 
@@ -53,7 +52,6 @@ Je recherche un poste **Pipeline / TD en Animation 3D / VFX**, et suis égalemen
 |---|---|---|
 | [**USD Maya Exporters**](https://github.com/arthurJusteau/usd-maya-exporters) | Suite d'exporteurs USD pour Maya (modeling, rigging, animation, caméra) | Python, `pxr` (Usd, UsdSkel, Sdf), Maya API |
 | [**Sanity Check Framework**](https://github.com/arthurJusteau/sanity-check-framework) | Outil de contrôle avant export : détecte les erreurs de scène (topologie, UVs, pivots, historique...) | Python, PySide2, Maya API |
-| [**HDA Import Asset**](https://github.com/arthurJusteau/houdini-usd-import-hda) | Digital Asset Houdini pour naviguer et importer des assets USD par référence/sublayer | Python, Houdini LOP, `hou` |
 | [**Tractor Bot**](https://github.com/arthurJusteau/tractorBot) | Monitoring autonome d'une farm de rendu Tractor : auto-retry des jobs en erreur, détection de frames bloquées par seuil dynamique | Python, threading, API HTTP |
 | [**USD Assembler**](https://github.com/arthurJusteau/usd-assembler) | Outil d'assemblage USD : composition d'assets et de shots par sublayers | Python, `pxr.Sdf`, PySide6 |
 
