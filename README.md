@@ -2,7 +2,7 @@
 
 # Arthur Justeau
 
-**Pipeline TD & 3D Generalist — USD, Python, Houdini, Maya**
+**Pipeline TD & 3D Generalist | USD, Python, Houdini, Maya**
 
 [🇬🇧 English](#-english) · [🇫🇷 Français](#-français)
 
